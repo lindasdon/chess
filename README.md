@@ -1,1 +1,2 @@
-# chess
+This is to contain my chess endgame database files
+from Python. The databases are numpy arrays saved with pickle. The .py files are programs to make and interact with them. The files with tkKRK.py is a tkinter app to setup a position and play from there.
